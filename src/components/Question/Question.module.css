@@ -1,0 +1,23 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 500px;
+    padding: 15px;
+}
+
+.endlessContainer {
+    height: 100%;
+}
+
+.endless {
+    width: 100%;
+    height: 100%;
+}
+
+.endlessBtn {
+    float: left;
+    position: relative;
+    left: 0;
+    top: 0;
+}

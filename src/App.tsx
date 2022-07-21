@@ -1,9 +1,10 @@
 import React from 'react';
+import Question from './components/Question/Question';
 
 function App() {
   return (
-    <div className="App">
-      App
+    <div>
+      <Question/>
     </div>
   );
 }
